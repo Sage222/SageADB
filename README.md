@@ -4,7 +4,7 @@ Put the python file in a folder with ADB and SCRCPY files and run it.
 
 (https://github.com/Genymobile/scrcpy)
 
-Need python and PyQt5 installed as a pre-req.
+Need python and PyQt5 installed, USB debugging as a pre-req.
 
 "pip install PyQt5"
 
