@@ -2,7 +2,13 @@ GUI to manage ADB and SCRCPY.
 
 Put the python file in a folder with ADB and SCRCPY files and run it.
 
-(https://github.com/Genymobile/scrcpy)
+https://github.com/Genymobile/scrcpy
+
+Also add the Google Bundletool to deal with split APKS files.
+
+https://github.com/google/bundletool/releases
+
+Rename the bundletoolxxxxx to bundletool.jar
 
 Need python and PyQt5 installed, USB debugging as a pre-req.
 
