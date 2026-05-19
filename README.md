@@ -20,6 +20,9 @@ Please note that there is an issue with External Display with Android 15.  This 
 
 All credit to SCRCPY team for there work and to Google for ADB.. 
 
+run with command line python sageadb15.py
+
+
 
 
 
